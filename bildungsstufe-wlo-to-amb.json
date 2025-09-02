@@ -1,0 +1,408 @@
+[
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:fb2c2767-c8e8-4f1a-99b0-a2331008a748",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "Ihr Name"
+        }
+      }
+    ],
+    "created": "2025-08-28",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+      "notation": [
+        "oeh-educational-context"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/educationalLevel/",
+      "notation": [
+        "kim-educational-level"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/elementarbereich",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+              "notation": [
+                "oeh-educational-context"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "https://w3id.org/kim/educationalLevel/level_0",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/educationalLevel/",
+              "notation": [
+                "kim-educational-level"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:14e2e5e8-aa61-41b6-8236-59207be07cc2",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "Ihr Name"
+        }
+      }
+    ],
+    "created": "2025-08-28",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+      "notation": [
+        "oeh-educational-context"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/educationalLevel/",
+      "notation": [
+        "kim-educational-level"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/grundschule",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+              "notation": [
+                "oeh-educational-context"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "https://w3id.org/kim/educationalLevel/level_1",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/educationalLevel/",
+              "notation": [
+                "kim-educational-level"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:d570df07-fc31-4388-9670-e8db49b3c815",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "Ihr Name"
+        }
+      }
+    ],
+    "created": "2025-08-28",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+      "notation": [
+        "oeh-educational-context"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/educationalLevel/",
+      "notation": [
+        "kim-educational-level"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/sekundarstufe_1",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+              "notation": [
+                "oeh-educational-context"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "https://w3id.org/kim/educationalLevel/level_2",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/educationalLevel/",
+              "notation": [
+                "kim-educational-level"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:16b70cde-30ec-4b5f-ba3a-9ae4371a2c27",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "Ihr Name"
+        }
+      }
+    ],
+    "created": "2025-08-28",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+      "notation": [
+        "oeh-educational-context"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/educationalLevel/",
+      "notation": [
+        "kim-educational-level"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/sekundarstufe_2",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+              "notation": [
+                "oeh-educational-context"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "https://w3id.org/kim/educationalLevel/level_3",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/educationalLevel/",
+              "notation": [
+                "kim-educational-level"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:219b2c8b-910d-4772-9fc1-a27453b128e7",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "Ihr Name"
+        }
+      }
+    ],
+    "created": "2025-08-28",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+      "notation": [
+        "oeh-educational-context"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/educationalLevel/",
+      "notation": [
+        "kim-educational-level"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/berufliche_bildung",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+              "notation": [
+                "oeh-educational-context"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "https://w3id.org/kim/educationalLevel/level_4",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/educationalLevel/",
+              "notation": [
+                "kim-educational-level"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:56b99eb5-230b-4147-bec7-c60e7797ea58",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "Ihr Name"
+        }
+      }
+    ],
+    "created": "2025-08-28",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+      "notation": [
+        "oeh-educational-context"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/educationalLevel/",
+      "notation": [
+        "kim-educational-level"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/hochschule",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+              "notation": [
+                "oeh-educational-context"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "https://w3id.org/kim/educationalLevel/level_A",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/educationalLevel/",
+              "notation": [
+                "kim-educational-level"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:b989b036-98aa-4f72-a845-ba24ec5a6baa",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "Ihr Name"
+        }
+      }
+    ],
+    "created": "2025-08-28",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+      "notation": [
+        "oeh-educational-context"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/educationalLevel/",
+      "notation": [
+        "kim-educational-level"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/fortbildung",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/educationalContext/",
+              "notation": [
+                "oeh-educational-context"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "https://w3id.org/kim/educationalLevel/level_C",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/educationalLevel/",
+              "notation": [
+                "kim-educational-level"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  }
+]
