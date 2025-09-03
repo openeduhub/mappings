@@ -1,0 +1,2380 @@
+[
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:1167a281-6d5f-4f7b-b89e-ab3cd7eecbc0",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/20003",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1000",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:dc1b7634-6a6b-40eb-8fc8-cd7ce1beadd1",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/46014",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1040",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:6862061a-3b40-4a69-9420-59e5ebf6ecad",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/080",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1001",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:958d035d-13e8-487e-88ce-0779f31f360e",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/100",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1002",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:b8c2b8ee-5dca-4c8e-b3f7-c638a7c7b5b5",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/20041",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1003",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:d3bff9cf-2a41-42d9-a1b8-9ec138e49064",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/12002",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1004",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:a6d8e626-beab-4d3c-86cc-877a5a1003e2",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/120",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1005",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:a05ffe61-b101-4171-8eef-a659fef13ea5",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/28002",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1006",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:54ae5d4e-ce57-4586-9cb1-c8560f5a8fc0",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/04006",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1044",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:b0ff7ba6-cc80-46fd-a8aa-5a746bd9c6e5",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/20001",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1007",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:01673101-1ef2-4712-a60d-8929422bbaf1",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/440",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1045",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:d2e23fe4-06b1-4dab-9d4f-e5dad52bee5a",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/160",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1008",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:963af477-84cd-4d1f-b808-1b83b09f3276",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/20002",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1009",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:5468a2c6-5dae-43a6-af05-630f5f4c061b",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/220",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1010",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:78b7221a-279f-4b29-bcf7-1716d78bd246",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/240",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1011",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:de64e7bb-619d-43b7-96d7-b4161c8c99a5",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/48005",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1042",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:a13556fe-9422-4f1c-8535-b79a8fb47fa0",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/260",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1012",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:5c6f8e31-4f32-4ff4-b17c-4725bac9b047",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/50001",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1047",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:bb76f66d-5c91-46f7-afe4-3c87469573c9",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/320",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1013",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:8c0b03a2-34d7-431d-9952-2e7dceca5166",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/20004",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1014",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:a0e04604-b7d2-4573-9add-d4473c9baa64",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/060",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1015",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:d5658f6d-ad68-414c-80bb-7204154c1398",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/20005",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1016",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:c51e73d3-9875-43ed-bedc-663c4ccf9002",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/380",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1017",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:daba0177-2a63-4da4-a748-9d3013d60505",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/900",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1046",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:28e7fb55-e07f-47cf-a929-3e0887288049",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/04003",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1019",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:b25eeab7-7cbd-4214-a979-07f26af0cb95",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/420",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1020",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:3110241c-be1f-447b-a0bb-ce68657867a2",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/450",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1021",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:3ec65e62-85b2-4099-96ca-0061f9a162fb",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/460",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1022",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:ca8482ac-60ba-4488-bf8d-d94bf47ea4a6",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/480",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1023",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:89e73e3e-fb39-4547-967f-2b9628bea5b9",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/510",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1043",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:aa472b12-9cdd-4667-9721-05489b12bf87",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/520",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1024",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:4d26f8e0-f508-46e8-8a41-d40d1b9d66f9",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/520",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1025",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:ed425df8-c4ad-43fd-90b0-01ba5ba200e7",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/520",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1026",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:a2316f89-b3c2-4a88-a102-e236478ce174",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/20006",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1027",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:f5ce65bb-d253-4fda-8f5a-c73ecc076b22",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/28010",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1028",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:fc711420-6007-4e2f-a32f-ae32173662b1",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/560",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1029",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:e8500a42-cf1d-458d-9586-b84c339d0db0",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/20009",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1039",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:571703b0-9577-419f-a36d-223b6ee8db66",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/20007",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1030",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:9c286d9d-bb34-40e1-905a-2697a2c75ad9",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/600",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1031",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:079830f6-f5af-47cd-bd28-fd5de4625888",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/20008",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1032",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:5bb72ba1-e09b-43c2-b9e5-2684dae08f51",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+      "notation": [
+        "oeh-discipline"
+      ]
+    },
+    "toScheme": {
+      "uri": "https://w3id.org/kim/schulfaecher/",
+      "notation": [
+        "kim-schulfaecher"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/discipline/700",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/discipline/",
+              "notation": [
+                "oeh-discipline"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/kim/schulfaecher/s1033",
+          "inScheme": [
+            {
+              "uri": "https://w3id.org/kim/schulfaecher/",
+              "notation": [
+                "kim-schulfaecher"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  }
+]
