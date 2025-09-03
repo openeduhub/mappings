@@ -1,0 +1,292 @@
+[
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:e59e3ed4-9d17-4b95-877e-9637e4d26ba5",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/",
+      "notation": [
+        "oeh-intendedEndUserRole"
+      ]
+    },
+    "toScheme": {
+      "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/",
+      "notation": [
+        "lrmi-audience"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/counsellor",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/",
+              "notation": [
+                "oeh-intendedEndUserRole"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/mentor",
+          "inScheme": [
+            {
+              "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/",
+              "notation": [
+                "lrmi-audience"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:8c3d18bd-e20e-4d2f-9307-dd4cbf7ebcfb",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/",
+      "notation": [
+        "oeh-intendedEndUserRole"
+      ]
+    },
+    "toScheme": {
+      "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/",
+      "notation": [
+        "lrmi-audience"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/learner",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/",
+              "notation": [
+                "oeh-intendedEndUserRole"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/student",
+          "inScheme": [
+            {
+              "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/",
+              "notation": [
+                "lrmi-audience"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:f2983c18-b7de-4843-a6b5-4b9e68b45e65",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/",
+      "notation": [
+        "oeh-intendedEndUserRole"
+      ]
+    },
+    "toScheme": {
+      "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/",
+      "notation": [
+        "lrmi-audience"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/manager",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/",
+              "notation": [
+                "oeh-intendedEndUserRole"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/administrator",
+          "inScheme": [
+            {
+              "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/",
+              "notation": [
+                "lrmi-audience"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:a7f77346-a16b-404a-9645-fe1add83cbdb",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/",
+      "notation": [
+        "oeh-intendedEndUserRole"
+      ]
+    },
+    "toScheme": {
+      "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/",
+      "notation": [
+        "lrmi-audience"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/parent",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/",
+              "notation": [
+                "oeh-intendedEndUserRole"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/parent",
+          "inScheme": [
+            {
+              "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/",
+              "notation": [
+                "lrmi-audience"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  },
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#exactMatch"
+    ],
+    "uri": "urn:uuid:e7b28981-69b6-45db-9275-00af14db031f",
+    "creator": [
+      {
+        "prefLabel": {
+          "de": "edu-sharing.net e.V."
+        }
+      }
+    ],
+    "created": "2025-09-03",
+    "fromScheme": {
+      "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/",
+      "notation": [
+        "oeh-intendedEndUserRole"
+      ]
+    },
+    "toScheme": {
+      "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/",
+      "notation": [
+        "lrmi-audience"
+      ]
+    },
+    "from": {
+      "memberSet": [
+        {
+          "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/teacher",
+          "inScheme": [
+            {
+              "uri": "http://w3id.org/openeduhub/vocabs/intendedEndUserRole/",
+              "notation": [
+                "oeh-intendedEndUserRole"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "to": {
+      "memberSet": [
+        {
+          "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/teacher",
+          "inScheme": [
+            {
+              "uri": "http://purl.org/dcx/lrmi-vocabs/educationalAudienceRole/",
+              "notation": [
+                "lrmi-audience"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mappingRelevance": 1.0
+  }
+]
